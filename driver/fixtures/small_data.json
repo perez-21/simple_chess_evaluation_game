@@ -1,0 +1,3194 @@
+[
+    {
+        "model": "driver.position",
+        "pk": 2,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/B4n2/8/4P3/8/PPPP1PPP/RNBQK1NR b KQkq - 2 2",
+            "evaluation": -459
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 3,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/1B6/4P3/8/PPPP1PPP/RNBQK1NR b KQkq - 2 2",
+            "evaluation": -125
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 4,
+        "fields": {
+            "fen": "rnbqkbnr/p1pppppp/8/1p6/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "evaluation": 198
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 5,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/7N/PPPP1PPP/RNBQKB1R b KQkq - 2 2",
+            "evaluation": -155
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 6,
+        "fields": {
+            "fen": "rnbqkbnr/ppppp1pp/8/5p2/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "evaluation": 209
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 7,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/2B1P3/8/PPPP1PPP/RNBQK1NR b KQkq - 2 2",
+            "evaluation": -101
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 8,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/5N2/PPPP1PPP/RNBQKB1R b KQkq - 2 2",
+            "evaluation": -105
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 9,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPPNPPP/RNBQKB1R b KQkq - 2 2",
+            "evaluation": -136
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 10,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/7Q/4P3/8/PPPP1PPP/RNB1KBNR b KQkq - 2 2",
+            "evaluation": -1262
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 11,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPPBPPP/RNBQK1NR b KQkq - 2 2",
+            "evaluation": -117
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 12,
+        "fields": {
+            "fen": "rnbqkbnr/1ppppppp/p7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "evaluation": 104
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 13,
+        "fields": {
+            "fen": "rnbqkbnr/p1pppppp/1p6/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "evaluation": 108
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 14,
+        "fields": {
+            "fen": "rnbqkbnr/ppppp1pp/5p2/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "evaluation": 194
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 15,
+        "fields": {
+            "fen": "rnbqkbnr/ppppppp1/7p/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "evaluation": 93
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 16,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/3B4/PPPP1PPP/RNBQK1NR b KQkq - 2 2",
+            "evaluation": -71
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 17,
+        "fields": {
+            "fen": "rnbqkbnr/pppppp1p/8/6p1/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "evaluation": 217
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 18,
+        "fields": {
+            "fen": "rnbqkbnr/ppppppp1/8/7p/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "evaluation": 163
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 19,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/7n/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2",
+            "evaluation": 176
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 20,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P1Q1/8/PPPP1PPP/RNB1KBNR b KQkq - 2 2",
+            "evaluation": -1248
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 21,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/7P/PPPP1PP1/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -128
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 22,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -55
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 23,
+        "fields": {
+            "fen": "rnbqkbnr/1ppppppp/8/p7/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 0 2",
+            "evaluation": 128
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 24,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 2 2",
+            "evaluation": -135
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 25,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -161
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 26,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/6P1/PPPP1P1P/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -138
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 27,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/5P2/PPPP2PP/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -148
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 28,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPPQPPP/RNB1KBNR b KQkq - 2 2",
+            "evaluation": -55
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 29,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -123
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 30,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/N7/PPPP1PPP/R1BQKBNR b KQkq - 2 2",
+            "evaluation": -129
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 31,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4PP2/8/PPPP2PP/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -151
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 32,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/3PP3/8/PPP2PPP/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -104
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 33,
+        "fields": {
+            "fen": "r1bqkbnr/pppppppp/n7/8/4P3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 2",
+            "evaluation": 141
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 34,
+        "fields": {
+            "fen": "r1bqkb1r/pppppppp/n4n2/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3",
+            "evaluation": 378
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 35,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P1P1/8/PPPP1P1P/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -159
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 36,
+        "fields": {
+            "fen": "rnbqkbr1/pppppppp/5n2/4P3/8/8/PPPP1PPP/RNBQKBNR w KQq - 1 3",
+            "evaluation": 363
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 37,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/P7/1PPP1PPP/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -132
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 38,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P2P/8/PPPP1PP1/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -139
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 39,
+        "fields": {
+            "fen": "rnbqkb1r/ppppppp1/5n1p/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 378
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 40,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/2P1P3/8/PP1P1PPP/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -96
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 41,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/P3P3/8/1PPP1PPP/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -155
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 42,
+        "fields": {
+            "fen": "r1bqkb1r/pppppppp/2n2n2/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3",
+            "evaluation": 359
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 43,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/4P3/6n1/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3",
+            "evaluation": 454
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 44,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/1P2P3/8/P1PP1PPP/RNBQKBNR b KQkq - 0 2",
+            "evaluation": -182
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 45,
+        "fields": {
+            "fen": "rnbqkb1r/pppppp1p/5np1/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 409
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 46,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/4P2n/8/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3",
+            "evaluation": 490
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 47,
+        "fields": {
+            "fen": "rnbqkb1r/pp1ppppp/2p2n2/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 374
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 48,
+        "fields": {
+            "fen": "rnbqkb1r/ppppppp1/5n2/4P2p/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 386
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 49,
+        "fields": {
+            "fen": "rnbqkb1r/pppp1ppp/4pn2/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 367
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 50,
+        "fields": {
+            "fen": "rnbqkb1r/1ppppppp/5n2/p3P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 390
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 51,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/8/4P3/8/PPPPKPPP/RNBQ1BNR b kq - 2 2",
+            "evaluation": -252
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 52,
+        "fields": {
+            "fen": "rnbqkb1r/1ppppppp/p4n2/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 378
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 53,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/5n2/3pP3/8/8/PPPP1PPP/RNBQKBNR w KQkq d6 0 3",
+            "evaluation": 359
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 54,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/B7/3nP3/8/8/PPPP1PPP/RNBQK1NR b KQkq - 2 3",
+            "evaluation": -435
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 55,
+        "fields": {
+            "fen": "rnbqkb1r/pp1ppppp/5n2/2p1P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 344
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 56,
+        "fields": {
+            "fen": "rnbqkb1r/p1pppppp/1p3n2/4P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 363
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 57,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/1B1nP3/8/8/PPPP1PPP/RNBQK1NR b KQkq - 2 3",
+            "evaluation": -60
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 58,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/2B5/8/PPPP1PPP/RNBQK1NR b KQkq - 2 3",
+            "evaluation": -17
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 59,
+        "fields": {
+            "fen": "rnbqkb1r/p1pppppp/5n2/1p2P3/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 463
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 60,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/4P3/4n3/8/PPPP1PPP/RNBQKBNR w KQkq - 1 3",
+            "evaluation": 184
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 61,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPPKPPP/RNBQ1BNR b kq - 2 3",
+            "evaluation": -230
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 62,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/7N/PPPP1PPP/RNBQKB1R b KQkq - 2 3",
+            "evaluation": -109
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 63,
+        "fields": {
+            "fen": "rnbqkb1r/pppppp1p/5n2/4P1p1/8/8/PPPP1PPP/RNBQKBNR w KQkq - 0 3",
+            "evaluation": 412
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 64,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPPBPPP/RNBQK1NR b KQkq - 2 3",
+            "evaluation": -51
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 65,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/4P3/3n4/8/8/PPPP1PPP/RNBQKBNR b KQkq - 0 3",
+            "evaluation": -138
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 66,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/5Q2/PPPP1PPP/RNB1KBNR b KQkq - 2 3",
+            "evaluation": -42
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 67,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/6Q1/8/PPPP1PPP/RNB1KBNR b KQkq - 2 3",
+            "evaluation": -104
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 68,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/3B4/PPPP1PPP/RNBQK1NR b KQkq - 2 3",
+            "evaluation": -58
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 69,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPPNPPP/RNBQKB1R b KQkq - 2 3",
+            "evaluation": -63
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 70,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/8/PPPPQPPP/RNB1KBNR b KQkq - 2 3",
+            "evaluation": -40
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 71,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP2Q/8/8/PPPP1PPP/RNB1KBNR b KQkq - 2 3",
+            "evaluation": -71
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 72,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/N7/PPPP1PPP/R1BQKBNR b KQkq - 2 3",
+            "evaluation": -27
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 73,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/P7/1PPP1PPP/RNBQKBNR b KQkq - 0 3",
+            "evaluation": 27
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 74,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/2N5/PPPP1PPP/R1BQKBNR b KQkq - 2 3",
+            "evaluation": -5
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 75,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/3P4/PPP2PPP/RNBQKBNR b KQkq - 0 3",
+            "evaluation": -45
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 76,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/7P/PPPP1PP1/RNBQKBNR b KQkq - 0 3",
+            "evaluation": 0
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 77,
+        "fields": {
+            "fen": "r1bqkb1r/pppppppp/2n5/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+            "evaluation": 214
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 78,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/2P5/8/PP1P1PPP/RNBQKBNR b KQkq - 0 3",
+            "evaluation": 58
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 79,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/7P/8/PPPP1PP1/RNBQKBNR b KQkq - 0 3",
+            "evaluation": -59
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 80,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/P7/8/1PPP1PPP/RNBQKBNR b KQkq - 0 3",
+            "evaluation": -48
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 81,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/2P5/PP1P1PPP/RNBQKBNR b KQkq - 0 3",
+            "evaluation": 0
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 82,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/6P1/8/PPPP1P1P/RNBQKBNR b KQkq - 0 3",
+            "evaluation": -153
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 83,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/4P3/3P1n2/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+            "evaluation": 574
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 84,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/5n2/4P3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+            "evaluation": 417
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 85,
+        "fields": {
+            "fen": "r1bqkb1r/pppppppp/n7/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+            "evaluation": 186
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 86,
+        "fields": {
+            "fen": "rnbqkbr1/pppppppp/8/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQq - 1 4",
+            "evaluation": 265
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 87,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/1P6/P1PP1PPP/RNBQKBNR b KQkq - 0 3",
+            "evaluation": -40
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 88,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/8/5P2/PPPP2PP/RNBQKBNR b KQkq - 0 3",
+            "evaluation": -119
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 89,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/5P2/8/PPPP2PP/RNBQKBNR b KQkq - 0 3",
+            "evaluation": -84
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 90,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/3nP3/1P6/8/P1PP1PPP/RNBQKBNR b KQkq - 0 3",
+            "evaluation": -117
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 91,
+        "fields": {
+            "fen": "rnbqkb1r/pp1ppppp/2p5/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 156
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 92,
+        "fields": {
+            "fen": "rnbqkb1r/p1pppppp/1p6/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 263
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 93,
+        "fields": {
+            "fen": "rnbqkb1r/ppppppp1/7p/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 165
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 94,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/4P3/3P4/2n5/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+            "evaluation": 594
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 95,
+        "fields": {
+            "fen": "rnbqkb1r/ppppp1pp/5p2/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 271
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 96,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/4P3/3P4/4n3/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+            "evaluation": 567
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 97,
+        "fields": {
+            "fen": "rnbqkb1r/pppppp1p/6p1/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 144
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 98,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP1NPPP/RNBQKB1R b KQkq - 1 4",
+            "evaluation": -50
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 99,
+        "fields": {
+            "fen": "rnbqkb1r/ppppppp1/8/3nP2p/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 234
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 100,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/B2p4/3nP3/3P4/8/PPP2PPP/RNBQK1NR b KQkq - 1 4",
+            "evaluation": -459
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 101,
+        "fields": {
+            "fen": "rnbqkb1r/1ppppppp/p7/3nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 157
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 102,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/1B1nP3/3P4/8/PPP2PPP/RNBQK1NR b KQkq - 1 4",
+            "evaluation": -21
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 103,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/8/4P3/1n1P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+            "evaluation": 200
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 104,
+        "fields": {
+            "fen": "rnbqkb1r/ppppp1pp/8/3nPp2/3P4/8/PPP2PPP/RNBQKBNR w KQkq f6 0 4",
+            "evaluation": 273
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 105,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/2BP4/8/PPP2PPP/RNBQK1NR b KQkq - 1 4",
+            "evaluation": -47
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 106,
+        "fields": {
+            "fen": "rnbqkb1r/pppppppp/1n6/4P3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 1 4",
+            "evaluation": 117
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 107,
+        "fields": {
+            "fen": "rnbqkb1r/p1pppppp/8/1p1nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 190
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 108,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP1BPPP/RNBQK1NR b KQkq - 1 4",
+            "evaluation": -20
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 109,
+        "fields": {
+            "fen": "rnbqkb1r/1ppppppp/8/p2nP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 172
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 110,
+        "fields": {
+            "fen": "rnbqkb1r/pppppp1p/8/3nP1p1/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 230
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 111,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/3B4/PPP2PPP/RNBQK1NR b KQkq - 1 4",
+            "evaluation": -41
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 112,
+        "fields": {
+            "fen": "rnbqkb1r/pp1ppppp/8/2pnP3/3P4/8/PPP2PPP/RNBQKBNR w KQkq - 0 4",
+            "evaluation": 148
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 113,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPPK1PPP/RNBQ1BNR b kq - 1 4",
+            "evaluation": -301
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 114,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/7N/PPP2PPP/RNBQKB1R b KQkq - 1 4",
+            "evaluation": -90
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 115,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/4B3/PPP2PPP/RN1QKBNR b KQkq - 1 4",
+            "evaluation": -136
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 116,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPPQ1PPP/RNB1KBNR b KQkq - 1 4",
+            "evaluation": -28
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 117,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP2Q/3P4/8/PPP2PPP/RNB1KBNR b KQkq - 1 4",
+            "evaluation": -70
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 118,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/N7/PPP2PPP/R1BQKBNR b KQkq - 1 4",
+            "evaluation": -50
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 119,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP1QPPP/RNB1KBNR b KQkq - 1 4",
+            "evaluation": -83
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 120,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P1B2/8/PPP2PPP/RN1QKBNR b KQkq - 1 4",
+            "evaluation": -471
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 121,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/3Q4/PPP2PPP/RNB1KBNR b KQkq - 1 4",
+            "evaluation": -78
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 122,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPPB1PPP/RN1QKBNR b KQkq - 1 4",
+            "evaluation": -74
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 123,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/2N5/PPP2PPP/R1BQKBNR b KQkq - 1 4",
+            "evaluation": -51
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 124,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p3B/3nP3/3P4/8/PPP2PPP/RN1QKBNR b KQkq - 1 4",
+            "evaluation": -463
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 125,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3pP3/3n4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -109
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 126,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3P4/3n4/3P4/8/PPP2PPP/RNBQKBNR b KQkq - 0 4",
+            "evaluation": 43
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 127,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPP1KPPP/RNBQ1BNR b kq - 1 4",
+            "evaluation": -217
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 128,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P3P/8/PPP2PP1/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -75
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 129,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/2P5/PP3PPP/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -59
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 130,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P2Q1/8/PPP2PPP/RNB1KBNR b KQkq - 1 4",
+            "evaluation": -1230
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 131,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/7P/PPP2PP1/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -21
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 132,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/8/PPPN1PPP/R1BQKBNR b KQkq - 1 4",
+            "evaluation": -67
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 133,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/5Q2/PPP2PPP/RNB1KBNR b KQkq - 1 4",
+            "evaluation": -76
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 134,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/1P6/P1P2PPP/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -71
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 135,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/P7/1PP2PPP/RNBQKBNR b KQkq - 0 4",
+            "evaluation": 12
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 136,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P1P2/8/PPP3PP/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -66
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 137,
+        "fields": {
+            "fen": "rn1qkb1r/pppbpppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 444
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 138,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/P2P4/8/1PP2PPP/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -32
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 139,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/6P1/PPP2P1P/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -34
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 140,
+        "fields": {
+            "fen": "rn1qkb1r/ppp1pppp/3pb3/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 436
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 141,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P2P1/8/PPP2P1P/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -190
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 142,
+        "fields": {
+            "fen": "rnb1kb1r/pppqpppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 497
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 143,
+        "fields": {
+            "fen": "rn1qkb1r/ppp1pppp/3p4/3nP3/2PP2b1/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 528
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 144,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/3P4/5P2/PPP3PP/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -132
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 145,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/3nP3/1P1P4/8/P1P2PPP/RNBQKBNR b KQkq - 0 4",
+            "evaluation": -175
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 146,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/4P3/2PP1n2/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 474
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 147,
+        "fields": {
+            "fen": "rnbqkbr1/ppp1pppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQq - 1 5",
+            "evaluation": 569
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 148,
+        "fields": {
+            "fen": "r1bqkb1r/ppp1pppp/n2p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 513
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 149,
+        "fields": {
+            "fen": "rn1qkb1r/ppp1pppp/3p4/3nP3/2PP4/7b/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 815
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 150,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1ppp1/3p3p/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 472
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 151,
+        "fields": {
+            "fen": "rnbq1b1r/pppkpppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQ - 1 5",
+            "evaluation": 625
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 152,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/8/3np3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 270
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 153,
+        "fields": {
+            "fen": "r1bqkb1r/ppp1pppp/2np4/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 564
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 154,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/4P3/2PP4/4n3/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 428
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 155,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/2pp4/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 372
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 156,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/4P3/2PP4/2n5/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 438
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 157,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p1n2/4P3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 501
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 158,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3p4/4P3/1nPP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 205
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 159,
+        "fields": {
+            "fen": "rn1qkb1r/ppp1pppp/3p4/3nPb2/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 477
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 160,
+        "fields": {
+            "fen": "rnbqkb1r/ppp2ppp/3pp3/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 367
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 161,
+        "fields": {
+            "fen": "rnbqkb1r/1pp1pppp/p2p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 448
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 162,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1p1pp/3p1p2/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 563
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 163,
+        "fields": {
+            "fen": "r1bqkb1r/pppnpppp/3p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 5",
+            "evaluation": 418
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 164,
+        "fields": {
+            "fen": "rnbqkb1r/1pp1pppp/3p4/p2nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 445
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 165,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/3p4/2pnP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 475
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 166,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pp1p/3p4/3nP1p1/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 572
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 167,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1ppp1/3p4/3nP2p/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 509
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 168,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/Q1PP4/8/PP3PPP/RNB1KBNR b KQkq - 2 5",
+            "evaluation": -1262
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 169,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/7N/PP3PPP/RNBQKB1R b KQkq - 2 5",
+            "evaluation": -148
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 170,
+        "fields": {
+            "fen": "rnbqkb1r/p1p1pppp/3p4/1p1nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 575
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 171,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pp1p/3p2p1/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 424
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 172,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1p1pp/3p4/3nPp2/2PP4/8/PP3PPP/RNBQKBNR w KQkq f6 0 5",
+            "evaluation": 501
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 173,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/3B4/PP3PPP/RNBQK1NR b KQkq - 2 5",
+            "evaluation": -138
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 174,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP2BPPP/RNBQK1NR b KQkq - 2 5",
+            "evaluation": -84
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 175,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP2Q1/8/PP3PPP/RNB1KBNR b KQkq - 2 5",
+            "evaluation": -1290
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 176,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P2Q/2PP4/8/PP3PPP/RNB1KBNR b KQkq - 2 5",
+            "evaluation": -109
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 177,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP1K1PPP/RNBQ1BNR b kq - 2 5",
+            "evaluation": -413
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 178,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/3Q4/PP3PPP/RNB1KBNR b KQkq - 2 5",
+            "evaluation": -80
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 179,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP2KPPP/RNBQ1BNR b kq - 2 5",
+            "evaluation": -238
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 180,
+        "fields": {
+            "fen": "rnbqkb1r/p1p1pppp/1p1p4/3nP3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 5",
+            "evaluation": 557
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 181,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP2NPPP/RNBQKB1R b KQkq - 2 5",
+            "evaluation": -148
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 182,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/1Q6/PP3PPP/RNB1KBNR b KQkq - 2 5",
+            "evaluation": -28
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 183,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP1B2/8/PP3PPP/RN1QKBNR b KQkq - 2 5",
+            "evaluation": -48
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 184,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP1Q1PPP/RNB1KBNR b KQkq - 2 5",
+            "evaluation": -131
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 185,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P1B1/2PP4/8/PP3PPP/RN1QKBNR b KQkq - 2 5",
+            "evaluation": -112
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 186,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p3B/4P3/2PP4/8/PP3PPP/RN1QKBNR b KQkq - 2 5",
+            "evaluation": -467
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 187,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/5Q2/PP3PPP/RNB1KBNR b KQkq - 2 5",
+            "evaluation": -98
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 188,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP1N1PPP/R1BQKBNR b KQkq - 2 5",
+            "evaluation": -86
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 189,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/2N5/PP3PPP/R1BQKBNR b KQkq - 2 5",
+            "evaluation": -136
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 190,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP2QPPP/RNB1KBNR b KQkq - 2 5",
+            "evaluation": -107
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 191,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1pP3/8/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -98
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 192,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/4B3/PP3PPP/RN1QKBNR b KQkq - 2 5",
+            "evaluation": -148
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 193,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/N7/PP3PPP/R1BQKBNR b KQkq - 2 5",
+            "evaluation": -122
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 194,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PPQ2PPP/RNB1KBNR b KQkq - 2 5",
+            "evaluation": -13
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 195,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/7P/PP3PP1/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -132
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 196,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/5P2/PP4PP/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -234
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 197,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/8/PP1B1PPP/RN1QKBNR b KQkq - 2 5",
+            "evaluation": -90
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 198,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/P7/1P3PPP/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -127
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 199,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/3PP3/2P5/8/PP3PPP/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -160
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 200,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/2P1P3/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -178
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 201,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/6P1/PP3P1P/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -161
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 202,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP4/1P6/P4PPP/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -144
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 203,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP1P2/8/PP4PP/RNBQKBNR b KQkq - 0 5",
+            "evaluation": 42
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 204,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/P1PP4/8/1P3PPP/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -101
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 205,
+        "fields": {
+            "fen": "rn1qkb1r/pppbpppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 217
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 206,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP3P/8/PP3PP1/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -125
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 207,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/2PP2P1/8/PP3P1P/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -240
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 208,
+        "fields": {
+            "fen": "rnb1kb1r/ppp1pppp/1n1q4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 185
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 209,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3P4/3n4/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 532
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 210,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/1n1p4/4P3/1PPP4/8/P4PPP/RNBQKBNR b KQkq - 0 5",
+            "evaluation": -175
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 211,
+        "fields": {
+            "fen": "rn1qkb1r/ppp1pppp/1n1P4/5b2/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 198
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 212,
+        "fields": {
+            "fen": "rn1qkb1r/ppp1pppp/1n1Pb3/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 232
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 213,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3P4/8/n1PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 598
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 214,
+        "fields": {
+            "fen": "rnb1kb1r/pppqpppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 236
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 215,
+        "fields": {
+            "fen": "rn1qkb1r/ppp1pppp/1n1P4/8/2PP4/7b/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 625
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 216,
+        "fields": {
+            "fen": "r1bqkb1r/ppp1pppp/1nnP4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 167
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 217,
+        "fields": {
+            "fen": "rn1qkb1r/ppp1pppp/1n1P4/8/2PP2b1/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 582
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 218,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pppp/3P4/8/2nP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 409
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 219,
+        "fields": {
+            "fen": "rnbq1b1r/pppkpppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR w KQ - 1 6",
+            "evaluation": 445
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 220,
+        "fields": {
+            "fen": "rnbqkb1r/pppnpppp/3P4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 294
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 221,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pp1p/1n1P2p1/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 184
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 222,
+        "fields": {
+            "fen": "rnbqkbr1/ppp1pppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR w KQq - 1 6",
+            "evaluation": 325
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 223,
+        "fields": {
+            "fen": "r1bqkb1r/ppp1pppp/nn1P4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 225
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 224,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1p1pp/1n1P1p2/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 394
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 225,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1ppp1/1n1P3p/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 240
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 226,
+        "fields": {
+            "fen": "r1bqkb1r/pppnpppp/1n1P4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 1 6",
+            "evaluation": 175
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 227,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1npP4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 136
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 228,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1p1pp/1n1P4/5p2/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 395
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 229,
+        "fields": {
+            "fen": "rnbqkb1r/1pp1pppp/pn1P4/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 199
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 230,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1P4/2p5/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 263
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 231,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R b KQkq - 1 6",
+            "evaluation": 25
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 232,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/3B4/PP3PPP/RNBQK1NR b KQkq - 1 6",
+            "evaluation": -35
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 233,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/8/PP2BPPP/RNBQK1NR b KQkq - 1 6",
+            "evaluation": 42
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 234,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/8/PP2KPPP/RNBQ1BNR b kq - 1 6",
+            "evaluation": -213
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 235,
+        "fields": {
+            "fen": "rnbqkb1r/1pp1pppp/1n1P4/p7/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 271
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 236,
+        "fields": {
+            "fen": "rnbqkb1r/ppp2ppp/1n1Pp3/8/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 196
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 237,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1ppp1/1n1P4/7p/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 255
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 238,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/8/PP2NPPP/RNBQKB1R b KQkq - 1 6",
+            "evaluation": -12
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 239,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/8/PP1K1PPP/RNBQ1BNR b kq - 1 6",
+            "evaluation": -217
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 240,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/Q1PP4/8/PP3PPP/RNB1KBNR b KQkq - 1 6",
+            "evaluation": -1238
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 241,
+        "fields": {
+            "fen": "rnbqkb1r/ppp1pp1p/1n1P4/6p1/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 308
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 242,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP2Q1/8/PP3PPP/RNB1KBNR b KQkq - 1 6",
+            "evaluation": -1262
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 243,
+        "fields": {
+            "fen": "rnbqkb1r/ppp2ppp/1n1P4/4p3/2PP4/8/PP3PPP/RNBQKBNR w KQkq - 0 6",
+            "evaluation": 117
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 244,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/3Q4/PP3PPP/RNB1KBNR b KQkq - 1 6",
+            "evaluation": -42
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 245,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP1B2/8/PP3PPP/RN1QKBNR b KQkq - 1 6",
+            "evaluation": -61
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 246,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/7N/PP3PPP/RNBQKB1R b KQkq - 1 6",
+            "evaluation": -49
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 247,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/1Q6/PP3PPP/RNB1KBNR b KQkq - 1 6",
+            "evaluation": -12
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 248,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/2P5/3P4/8/PP3PPP/RNBQKBNR b KQkq - 0 6",
+            "evaluation": -160
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 249,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/8/PP1B1PPP/RN1QKBNR b KQkq - 1 6",
+            "evaluation": -59
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 250,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/7Q/2PP4/8/PP3PPP/RNB1KBNR b KQkq - 1 6",
+            "evaluation": -112
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 251,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/6B1/2PP4/8/PP3PPP/RN1QKBNR b KQkq - 1 6",
+            "evaluation": 25
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 252,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p3B/8/2PP4/8/PP3PPP/RN1QKBNR b KQkq - 1 6",
+            "evaluation": -501
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 253,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/5Q2/PP3PPP/RNB1KBNR b KQkq - 1 6",
+            "evaluation": -113
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 254,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/7P/PP3PP1/RNBQKBNR b KQkq - 0 6",
+            "evaluation": -13
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 255,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/8/PP2QPPP/RNB1KBNR b KQkq - 1 6",
+            "evaluation": -103
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 256,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/8/PP1Q1PPP/RNB1KBNR b KQkq - 1 6",
+            "evaluation": -54
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 257,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/8/PPQ2PPP/RNB1KBNR b KQkq - 1 6",
+            "evaluation": -39
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 258,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/N7/PP3PPP/R1BQKBNR b KQkq - 1 6",
+            "evaluation": -36
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 259,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/P7/1P3PPP/RNBQKBNR b KQkq - 0 6",
+            "evaluation": 1
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 260,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP2P1/8/PP3P1P/RNBQKBNR b KQkq - 0 6",
+            "evaluation": -146
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 261,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/8/PP1N1PPP/R1BQKBNR b KQkq - 1 6",
+            "evaluation": -71
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 262,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/1PPP4/8/P4PPP/RNBQKBNR b KQkq - 0 6",
+            "evaluation": -55
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 263,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP3P/8/PP3PP1/RNBQKBNR b KQkq - 0 6",
+            "evaluation": -27
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 264,
+        "fields": {
+            "fen": "rnb1kb1r/pp1qpppp/1n1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 180
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 265,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/1P6/P4PPP/RNBQKBNR b KQkq - 0 6",
+            "evaluation": -31
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 266,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP1P2/8/PP4PP/RNBQKBNR b KQkq - 0 6",
+            "evaluation": -48
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 267,
+        "fields": {
+            "fen": "rnbqkbr1/pp2pppp/1n1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQq - 2 7",
+            "evaluation": 240
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 268,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/6P1/PP3P1P/RNBQKBNR b KQkq - 0 6",
+            "evaluation": -43
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 269,
+        "fields": {
+            "fen": "rn1qkb1r/pp1bpppp/1n1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 160
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 270,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/P1PP4/8/1P3PPP/RNBQKBNR b KQkq - 0 6",
+            "evaluation": 40
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 271,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/3p4/3n4/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 515
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 272,
+        "fields": {
+            "fen": "rn1qkb1r/pp2pppp/1n1pb3/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 148
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 273,
+        "fields": {
+            "fen": "rn1qkb1r/pp2pppp/1n1p4/8/2PP4/5N1b/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 478
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 274,
+        "fields": {
+            "fen": "rnb1kb1r/ppq1pppp/1n1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 188
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 275,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n1p4/8/2PP4/5P2/PP4PP/RNBQKBNR b KQkq - 0 6",
+            "evaluation": -63
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 276,
+        "fields": {
+            "fen": "r1bqkb1r/pp2pppp/1nnp4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 137
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 277,
+        "fields": {
+            "fen": "r1bqkb1r/pp1npppp/1n1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 140
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 278,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/3p4/8/2nP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 409
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 279,
+        "fields": {
+            "fen": "rn1qkb1r/pp2pppp/1n1p4/5b2/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 98
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 280,
+        "fields": {
+            "fen": "rnbqkb1r/pp1npppp/3p4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 142
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 281,
+        "fields": {
+            "fen": "rnbqkb1r/pp2ppp1/1n1p4/7p/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 163
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 282,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/3p4/8/n1PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 557
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 283,
+        "fields": {
+            "fen": "r1bqkb1r/pp2pppp/nn1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 171
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 284,
+        "fields": {
+            "fen": "rnbq1b1r/pp1kpppp/1n1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQ - 2 7",
+            "evaluation": 367
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 285,
+        "fields": {
+            "fen": "rnbqkb1r/pp3ppp/1n1pp3/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 112
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 286,
+        "fields": {
+            "fen": "rnbqkb1r/pp2ppp1/1n1p3p/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 135
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 287,
+        "fields": {
+            "fen": "rn1qkb1r/pp2pppp/1n1p4/8/2PP2b1/5N2/PP3PPP/RNBQKB1R w KQkq - 2 7",
+            "evaluation": 117
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 288,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pppp/1n6/3p4/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 171
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 289,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/6N1/2PP4/8/PP3PPP/RNBQKB1R b KQkq - 1 7",
+            "evaluation": -90
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 290,
+        "fields": {
+            "fen": "rnbqkb1r/1p2pppp/1n1p4/p7/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 163
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 291,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/8/PP1N1PPP/RNBQKB1R b KQkq - 1 7",
+            "evaluation": -101
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 292,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP3N/8/PP3PPP/RNBQKB1R b KQkq - 1 7",
+            "evaluation": -107
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 293,
+        "fields": {
+            "fen": "rnbqkb1r/1p2pppp/pn1p4/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 140
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 294,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/8/PP3PPP/RNBQKBNR b KQkq - 1 7",
+            "evaluation": -128
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 295,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/4N3/2PP4/8/PP3PPP/RNBQKB1R b KQkq - 1 7",
+            "evaluation": -459
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 296,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP2KPPP/RNBQ1B1R b kq - 1 7",
+            "evaluation": -203
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 297,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP2BPPP/RNBQK2R b KQkq - 1 7",
+            "evaluation": 40
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 298,
+        "fields": {
+            "fen": "rnbqkb1r/pp2p1pp/1n1p1p2/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 176
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 299,
+        "fields": {
+            "fen": "rnbqkb1r/pp3ppp/1n1p4/4p3/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 84
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 300,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 75
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 301,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/Q1PP4/5N2/PP3PPP/RNB1KB1R b KQkq - 1 7",
+            "evaluation": -1249
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 302,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p4/6p1/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 221
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 303,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP1K1PPP/RNBQ1B1R b kq - 1 7",
+            "evaluation": -217
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 304,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP3PPP/RNBQKBR1 b Qkq - 1 7",
+            "evaluation": -122
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 305,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/1Q3N2/PP3PPP/RNB1KB1R b KQkq - 1 7",
+            "evaluation": 9
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 306,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/3Q1N2/PP3PPP/RNB1KB1R b KQkq - 1 7",
+            "evaluation": -48
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 307,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/N4N2/PP3PPP/R1BQKB1R b KQkq - 1 7",
+            "evaluation": -5
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 308,
+        "fields": {
+            "fen": "rnbqkb1r/pp2p1pp/1n1p4/5p2/2PP4/5N2/PP3PPP/RNBQKB1R w KQkq - 0 7",
+            "evaluation": 182
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 309,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2pB/8/2PP4/5N2/PP3PPP/RN1QKB1R b KQkq - 1 7",
+            "evaluation": -533
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 310,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/2P5/3P4/5N2/PP3PPP/RNBQKB1R b KQkq - 0 7",
+            "evaluation": -101
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 311,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/3B1N2/PP3PPP/RNBQK2R b KQkq - 1 7",
+            "evaluation": -44
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 312,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP1B2/5N2/PP3PPP/RN1QKB1R b KQkq - 1 7",
+            "evaluation": -50
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 313,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PPQ2PPP/RNB1KB1R b KQkq - 1 7",
+            "evaluation": -48
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 314,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP1Q1PPP/RNB1KB1R b KQkq - 1 7",
+            "evaluation": -59
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 315,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/2N2N2/PP3PPP/R1BQKB1R b KQkq - 1 7",
+            "evaluation": 17
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 316,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/4BN2/PP3PPP/RN1QKB1R b KQkq - 1 7",
+            "evaluation": 21
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 317,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N1P/PP3PP1/RNBQKB1R b KQkq - 0 7",
+            "evaluation": 32
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 318,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP1B1PPP/RN1QKB1R b KQkq - 1 7",
+            "evaluation": -51
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 319,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/6B1/2PP4/5N2/PP3PPP/RN1QKB1R b KQkq - 1 7",
+            "evaluation": -9
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 320,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP1N1PPP/R1BQKB1R b KQkq - 1 7",
+            "evaluation": -82
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 321,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/3P4/2P5/5N2/PP3PPP/RNBQKB1R b KQkq - 0 7",
+            "evaluation": -55
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 322,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/P4N2/1P3PPP/RNBQKB1R b KQkq - 0 7",
+            "evaluation": -44
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 323,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/1P3N2/P4PPP/RNBQKB1R b KQkq - 0 7",
+            "evaluation": -1
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 324,
+        "fields": {
+            "fen": "rnb1kb1r/pp1qpp1p/1n1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 417
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 325,
+        "fields": {
+            "fen": "rnbq1b1r/pp1kpp1p/1n1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQ - 1 8",
+            "evaluation": 571
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 326,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5NP1/PP3P1P/RNBQKB1R b KQkq - 0 7",
+            "evaluation": -78
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 327,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 40
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 328,
+        "fields": {
+            "fen": "rnbqk2r/pp2pp1p/1n1p2pb/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 771
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 329,
+        "fields": {
+            "fen": "r1bqkb1r/pp1npp1p/1n1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 421
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 330,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP2P1/5N2/PP3P1P/RNBQKB1R b KQkq - 0 7",
+            "evaluation": -273
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 331,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP3P/5N2/PP3PP1/RNBQKB1R b KQkq - 0 7",
+            "evaluation": -44
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 332,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R b KQkq - 0 7",
+            "evaluation": 28
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 333,
+        "fields": {
+            "fen": "rnb1kb1r/ppq1pp1p/1n1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 106
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 334,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/3p2p1/3n4/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 517
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 335,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/2PP4/5N2/PP2QPPP/RNB1KB1R b KQkq - 1 7",
+            "evaluation": -117
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 336,
+        "fields": {
+            "fen": "rn1qkb1r/pp2pp1p/1n1p2p1/5b2/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 117
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 337,
+        "fields": {
+            "fen": "rnbqkb1r/pp1npp1p/3p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 105
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 338,
+        "fields": {
+            "fen": "r1bqkb1r/pp2pp1p/nn1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 132
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 339,
+        "fields": {
+            "fen": "rn1qkb1r/pp2pp1p/1n1pb1p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 137
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 340,
+        "fields": {
+            "fen": "r1bqkb1r/pp2pp1p/1nnp2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 137
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 341,
+        "fields": {
+            "fen": "rn1qkb1r/pp2pp1p/1n1p2p1/8/P1PP4/5N1b/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 455
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 342,
+        "fields": {
+            "fen": "rnbqkbr1/pp2pp1p/1n1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQq - 1 8",
+            "evaluation": 209
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 343,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/3p2p1/8/n1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 421
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 344,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p2p1/8/1PPP4/5N2/P4PPP/RNBQKB1R b KQkq - 0 7",
+            "evaluation": -54
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 345,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/3p2p1/8/P1nP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 378
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 346,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp2/1n1p2p1/7p/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 138
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 347,
+        "fields": {
+            "fen": "rn1qkb1r/pp1bpp1p/1n1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 127
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 348,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n1p4/6p1/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 328
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 349,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp1p/1n4p1/3p4/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 135
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 350,
+        "fields": {
+            "fen": "rnbqkb1r/pp2pp2/1n1p2pp/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 119
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 351,
+        "fields": {
+            "fen": "rnbqkb1r/pp2p2p/1n1p1pp1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 303
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 352,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/8/1P1N1PPP/RNBQKB1R b KQkq - 2 8",
+            "evaluation": -150
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 353,
+        "fields": {
+            "fen": "rn1qkb1r/pp2pp1p/1n1p2p1/8/P1PP2b1/5N2/1P3PPP/RNBQKB1R w KQkq - 1 8",
+            "evaluation": 50
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 354,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/4N3/P1PP4/8/1P3PPP/RNBQKB1R b KQkq - 2 8",
+            "evaluation": -484
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 355,
+        "fields": {
+            "fen": "rnbqkb1r/1p2pp1p/1n1p2p1/p7/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 82
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 356,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP3N/8/1P3PPP/RNBQKB1R b KQkq - 2 8",
+            "evaluation": -162
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 357,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/6N1/P1PP4/8/1P3PPP/RNBQKB1R b KQkq - 2 8",
+            "evaluation": -113
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 358,
+        "fields": {
+            "fen": "rnbqkb1r/1p2pp1p/pn1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 88
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 359,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N2/1P2KPPP/RNBQ1B1R b kq - 2 8",
+            "evaluation": -329
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 360,
+        "fields": {
+            "fen": "rnbqkb1r/pp3p1p/1n1pp1p1/8/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 189
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 361,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2pB/8/P1PP4/5N2/1P3PPP/RN1QKB1R b KQkq - 2 8",
+            "evaluation": -486
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 362,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N2/1P3PPP/RNBQKBR1 b Qkq - 2 8",
+            "evaluation": -159
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 363,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/3B1N2/1P3PPP/RNBQK2R b KQkq - 2 8",
+            "evaluation": -78
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 364,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N2/1P2BPPP/RNBQK2R b KQkq - 2 8",
+            "evaluation": 32
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 365,
+        "fields": {
+            "fen": "rnbqkb1r/pp3p1p/1n1p2p1/4p3/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 159
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 366,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N2/1P1K1PPP/RNBQ1B1R b kq - 2 8",
+            "evaluation": -271
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 367,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N2/1P1Q1PPP/RNB1KB1R b KQkq - 2 8",
+            "evaluation": -63
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 368,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/2N2N2/1P3PPP/R1BQKB1R b KQkq - 2 8",
+            "evaluation": -5
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 369,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/8/1P3PPP/RNBQKBNR b KQkq - 2 8",
+            "evaluation": -152
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 370,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/3Q1N2/1P3PPP/RNB1KB1R b KQkq - 2 8",
+            "evaluation": -124
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 371,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/1Q3N2/1P3PPP/RNB1KB1R b KQkq - 2 8",
+            "evaluation": -86
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 372,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/4BN2/1P3PPP/RN1QKB1R b KQkq - 2 8",
+            "evaluation": 1
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 373,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/6B1/P1PP4/5N2/1P3PPP/RN1QKB1R b KQkq - 2 8",
+            "evaluation": -24
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 374,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N2/1PQ2PPP/RNB1KB1R b KQkq - 2 8",
+            "evaluation": -125
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 375,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/2P5/P2P4/5N2/1P3PPP/RNBQKB1R b KQkq - 0 8",
+            "evaluation": -136
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 376,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/N4N2/1P3PPP/R1BQKB1R b KQkq - 2 8",
+            "evaluation": -55
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 377,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP1B2/5N2/1P3PPP/RN1QKB1R b KQkq - 2 8",
+            "evaluation": -68
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 378,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N2/1P1N1PPP/R1BQKB1R b KQkq - 2 8",
+            "evaluation": -101
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 379,
+        "fields": {
+            "fen": "rnbqkb1r/pp2p2p/1n1p2p1/5p2/P1PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 0 8",
+            "evaluation": 136
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 380,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/P7/2PP4/5N2/1P3PPP/RNBQKB1R b KQkq - 0 8",
+            "evaluation": 0
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 381,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/3P4/P1P5/5N2/1P3PPP/RNBQKB1R b KQkq - 0 8",
+            "evaluation": -25
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 382,
+        "fields": {
+            "fen": "rnbqk1r1/pp2ppbp/1n1p2p1/P7/2PP4/5N2/1P3PPP/RNBQKB1R w KQq - 1 9",
+            "evaluation": 532
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 383,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5NP1/1P3P1P/RNBQKB1R b KQkq - 0 8",
+            "evaluation": -78
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 384,
+        "fields": {
+            "fen": "rnbq1k1r/pp2ppbp/1n1p2p1/P7/2PP4/5N2/1P3PPP/RNBQKB1R w KQ - 1 9",
+            "evaluation": 478
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 385,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP3P/5N2/1P3PP1/RNBQKB1R b KQkq - 0 8",
+            "evaluation": -89
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 386,
+        "fields": {
+            "fen": "rnb1k2r/ppq1ppbp/1n1p2p1/P7/2PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 9",
+            "evaluation": 444
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 387,
+        "fields": {
+            "fen": "rn1qk2r/pp1bppbp/1n1p2p1/P7/2PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 9",
+            "evaluation": 431
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 388,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/1P3N2/5PPP/RNBQKB1R b KQkq - 0 8",
+            "evaluation": -101
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 389,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP2P1/5N2/1P3P1P/RNBQKB1R b KQkq - 0 8",
+            "evaluation": -275
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 390,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N2/1P2QPPP/RNB1KB1R b KQkq - 2 8",
+            "evaluation": -121
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 391,
+        "fields": {
+            "fen": "rnb1k2r/pp1qppbp/1n1p2p1/P7/2PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 9",
+            "evaluation": 546
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 392,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N2/RP3PPP/1NBQKB1R b Kkq - 2 8",
+            "evaluation": -62
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 393,
+        "fields": {
+            "fen": "rnbqkr2/pp2ppbp/1n1p2p1/P7/2PP4/5N2/1P3PPP/RNBQKB1R w KQq - 1 9",
+            "evaluation": 575
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 394,
+        "fields": {
+            "fen": "rn1qk2r/pp2ppbp/1n1p2p1/P4b2/2PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 9",
+            "evaluation": 413
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 395,
+        "fields": {
+            "fen": "r1bqk2r/pp1nppbp/1n1p2p1/P7/2PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 9",
+            "evaluation": 451
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 396,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/R4N2/1P3PPP/1NBQKB1R b Kkq - 2 8",
+            "evaluation": -67
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 397,
+        "fields": {
+            "fen": "rn1qk2r/pp2ppbp/1n1pb1p1/P7/2PP4/5N2/1P3PPP/RNBQKB1R w KQkq - 1 9",
+            "evaluation": 424
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 398,
+        "fields": {
+            "fen": "rnbq3r/pp1kppbp/1n1p2p1/P7/2PP4/5N2/1P3PPP/RNBQKB1R w KQ - 1 9",
+            "evaluation": 706
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 399,
+        "fields": {
+            "fen": "rn1qk2r/pp2ppbp/1n1p2p1/P7/2PP4/5N1b/1P3PPP/RNBQKB1R w KQkq - 1 9",
+            "evaluation": 551
+        }
+    },
+    {
+        "model": "driver.position",
+        "pk": 400,
+        "fields": {
+            "fen": "rnbqk2r/pp2ppbp/1n1p2p1/8/P1PP4/5N1P/1P3PP1/RNBQKB1R b KQkq - 0 8",
+            "evaluation": -43
+        }
+    }
+]
